@@ -4,7 +4,7 @@ email:       saikrishna.3490@example.com
 author:      John Otander
 description: "Personal Website"
 baseurl:     ""
-url:         ""
+url:         "http://psi3490.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
