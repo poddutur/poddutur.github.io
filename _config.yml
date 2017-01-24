@@ -8,7 +8,7 @@ url:         "http://psi3490.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification:"i_Wl9-Q2BoazlbZetsj7RSj316XaCBr-Hp7-gcMmhGI"
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:
