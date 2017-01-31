@@ -4,7 +4,7 @@ email:       saikrishna.3490@gmail.com
 author:      John Otander
 description: "Sai Poddutur's Personal Website"
 baseurl:     ""
-url:         "http://psi3490.github.io"
+url:         "http://poddutur.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
