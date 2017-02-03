@@ -14,7 +14,7 @@ google_verification: "i_Wl9-Q2BoazlbZetsj7RSj316XaCBr-Hp7-gcMmhGI"
 google_analytics: UA-90797928-1
 google_tag_manager:
 # Bing services
-bing_verification: "7E9209A4E5FA845462D48B941BDEA07B"
+bing_verification:
 
 # Optional features
 animated:             false
