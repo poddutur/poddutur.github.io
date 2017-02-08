@@ -7,7 +7,7 @@ categories: jekyll pixyll
 ---
 
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
-Here is an example 
+Here is an example $$ x_1^2 = 4 $$
 <div> 
 $$
 \begin{align*}
