@@ -7,7 +7,7 @@ categories: jekyll pixyll
 ---
 
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
-Here is an example MathJax inline rendering $$f(x) = \sum_{k=1}^{K}\alpha_{k}$$, and here is a block rendering: 
+Here is an example <div> $$f(x) = \sum_{k=1}^{K}\alpha_{k}$$ </div>  
 
 Pixyll now features:
 
