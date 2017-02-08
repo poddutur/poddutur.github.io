@@ -104,9 +104,8 @@ text:
 
 # Build settings
 markdown:     kramdown
-mathjax: true
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+  extensions: ['smart', 'tables', 'with_toc_data', 'no_intra_emphasis']
 permalink:    pretty
 paginate:     100
 sass:
