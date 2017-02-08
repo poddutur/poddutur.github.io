@@ -7,7 +7,8 @@ categories: jekyll pixyll
 ---
 
 In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
-
+Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
+\\[ \frac{1}{n^{2}} \\]
 Pixyll now features:
 
 * Line anchors in code blocks and new syntax highlighting
