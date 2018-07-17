@@ -6,12 +6,6 @@ tags: about
 ---
 
 
-<div class="row">
-  <div class="column", width=30%, padding=5px>![Me]({{ "/images/me.png" | absolute_url }})</div>
-  <div class="column", width=50%, padding=5px>Something about me</div>
-</div>
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -39,7 +33,7 @@ tags: about
 <p>How to create side-by-side images with the CSS float property:</p>
 
 <div class="row">
-  <div class="column">![Me]({{ "/images/me.png" | absolute_url }})</div>
+  <div class="column"><img src="/images/me.jpg" alt="me" style="width:100%"></div>
   <div class="column">Something about me</div>
 </div>
 
