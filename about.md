@@ -5,4 +5,4 @@ permalink: /about/
 tags: about
 ---
 
-![me]/images/{me.png}
+![Me]({{ "/images/me.png" | absolute_url }})
