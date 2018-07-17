@@ -20,7 +20,7 @@ tags: about
 
 .column2 {
     float: left;
-    width: 60%;
+    width: 70%;
     padding: 10px;
 }
 
@@ -35,14 +35,17 @@ tags: about
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 10px;
-  font-size: 20px;
-  width: 30px;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
   text-align: center;
   text-decoration: none;
-  margin: 2px 1px;
+  margin: 5px 2px;
 }
 
+.fa:hover {
+    opacity: 0.7;
+}
 
 .fa-linkedin {
   background: black;
@@ -63,7 +66,7 @@ tags: about
   <div class="column1">
       <img src="https://media.licdn.com/dms/image/C5603AQGPSzI8WEm10g/profile-displayphoto-shrink_200_200/0?e=1537401600&v=beta&t=5cAp-hd78tp_kqlW_Wugtx1lUVIwG89Q3GuwRzAX5R0" alt="ME" style="width:100%">
   </div>
-  <div class="column2">
+  <div class="column2" style="width:100%">
       <p>Something</p>
       <p><a href="https://www.linkedin.com/in/poddutur/" class="fa fa-linkedin"></a> <a href="https://github.com/poddutur" class="fa fa-github"></a></p>
   </div>
