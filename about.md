@@ -40,7 +40,7 @@ tags: about
   width: 50px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 5px;
+  margin: 5px 2px;
 }
 
 .fa:hover {
@@ -67,7 +67,7 @@ tags: about
       <img src="https://media.licdn.com/dms/image/C5603AQGPSzI8WEm10g/profile-displayphoto-shrink_200_200/0?e=1537401600&v=beta&t=5cAp-hd78tp_kqlW_Wugtx1lUVIwG89Q3GuwRzAX5R0" alt="ME" style="width:100%">
   </div>
   <div class="column2">
-      <p>Something</p>
+      <p>Quant by profession. Math geek. Scarcastic.</p>
       <p style="width:100%"><a href="https://www.linkedin.com/in/poddutur/" class="fa fa-linkedin"></a> <a href="https://github.com/poddutur" class="fa fa-github"></a></p>
   </div>
 </div>
