@@ -20,7 +20,7 @@ tags: about
 
 .column2 {
     float: left;
-    width: 50%;
+    width: 60%;
     padding: 10px;
 }
 
@@ -35,17 +35,14 @@ tags: about
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 2px 1px;
 }
 
-.fa:hover {
-    opacity: 0.7;
-}
 
 .fa-linkedin {
   background: black;
