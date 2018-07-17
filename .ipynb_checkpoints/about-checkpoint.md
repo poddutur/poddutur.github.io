@@ -40,7 +40,7 @@ tags: about
   width: 50px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 5px 5px;
 }
 
 .fa:hover {
